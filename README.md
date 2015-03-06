@@ -1,4 +1,4 @@
-# Microsoft Azure PowerShell
+# Microsoft Azure PowerShell v2
 
 This repository contains a set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.
 
